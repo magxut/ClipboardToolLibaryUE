@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ClipboardTools",
+	"Description": " Some basic UE C++ Windows clipboard functions exposed to Blueprints! UE4.27 ",
+	"Category": "Other",
+	"CreatedBy": "magxut",
+	"CreatedByURL": "https://github.com/magxut/ClipboardToolLibaryUE",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ClipboardTools",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
