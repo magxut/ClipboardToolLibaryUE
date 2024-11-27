@@ -9,3 +9,6 @@ Some basic UE C++ Windows clipboard functions exposed to Blueprints!
 - **Get Clipboard Format**: Returns the format of the current clipboard content.  
 - **Clear Clipboard**: Clears all data from the clipboard.  
 - **Is Clipboard Empty**: Checks if the clipboard is empty.  
+
+I made this in UE4.27, but it should work in UE5 with no issues I think...
+Only for Windows! 
